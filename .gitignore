@@ -30,3 +30,9 @@
 *.exe
 *.out
 *.app
+
+.vscode
+debug.cpp
+debug.exe
+刘儿子_俄罗斯方块.cpp
+201803-2_碰撞的小球二维数组法_00.cpp
